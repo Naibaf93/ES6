@@ -12,5 +12,6 @@
     "platzi"
   ],
   "author": "Fabian Huertas <miloh9318@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT", 
+  "type": "module"
 }
