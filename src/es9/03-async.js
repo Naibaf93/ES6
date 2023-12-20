@@ -17,3 +17,4 @@ async function arrayOfNames(array) {
 }
 
 const names = arrayOfNames(['Fabian', 'Oscar', 'Luis']);
+console.log('After');
