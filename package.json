@@ -12,6 +12,9 @@
     "platzi"
   ],
   "author": "Fabian Huertas <miloh9318@hotmail.com>",
-  "license": "MIT", 
-  "type": "module"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
